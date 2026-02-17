@@ -1,0 +1,157 @@
+# Datasets (too large)
+datasets/
+!datasets/.gitkeep
+
+# Output files (generated)
+output/
+!output/.gitkeep
+*.pkl
+comparison_results/
+
+# ComPrint model (clone separately)
+comprint/
+!comprint/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jupyter
+*.ipynb
+.ipynb_checkpoints/
+
+# TensorFlow
+*.h5
+*.hdf5
+checkpoints/
+
+# Temporary files
+*.tmp
+*.bak
+```
+
+---
+
+## FILE 3: `requirements.txt`
+```
+tensorflow==2.9.1
+keras==2.9.0
+opencv-python==4.8.1.78
+numpy==1.24.3
+scikit-learn==1.3.2
+matplotlib==3.8.2
+seaborn==0.13.0
+tqdm==4.66.1
+Pillow==10.1.0
+
+
+
+# ============================================================
+# Python
+# ============================================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ============================================================
+# Environments
+# ============================================================
+.env
+.venv
+venv/
+env/
+ENV/
+
+# ============================================================
+# Jupyter Notebooks
+# ============================================================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ============================================================
+# Large Dataset Files (Too large for GitHub)
+# ============================================================
+datasets/
+*.pkl
+*.h5
+*.hdf5
+
+# ============================================================
+# Model Weights (Large Binary Files)
+# ============================================================
+comprint/models/
+*.pb
+*.index
+*.data-00000-of-00001
+*.data-00001-of-00002
+*.data-00000-of-00002
+
+# ============================================================
+# Generated Outputs (Not needed in repo)
+# ============================================================
+output/
+boss_validation_results/
+comparison_results/
+*.npz
+
+# ============================================================
+# OS Files
+# ============================================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============================================================
+# VS Code
+# ============================================================
+.vscode/
+*.code-workspace
+
+# ============================================================
+# Logs
+# ============================================================
+*.log
+pip-log.txt
+
+# ============================================================
+# Testing
+# ============================================================
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# ============================================================
+# MyPy
+# ============================================================
+.mypy_cache/
+.dmypy.json
