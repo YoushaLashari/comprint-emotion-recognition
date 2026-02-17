@@ -239,10 +239,9 @@ This project uses the ComPrint model. Please cite the original authors:
 
 ## 📧 Contact
 
-- **Author:** Your Name
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Portfolio:** [Your Portfolio Website](https://yourwebsite.com)
+- **Author:** Muhamad Yousha
+- **Email:** youshalashari@gmail.com
+- **LinkedIn:** [[Your LinkedIn Profile](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/muhammad-yousha-484b2a362/)
 
 ---
 
