@@ -241,7 +241,7 @@ This project uses the ComPrint model. Please cite the original authors:
 
 - **Author:** Muhamad Yousha
 - **Email:** youshalashari@gmail.com
-- **LinkedIn:** [[Your LinkedIn Profile](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/muhammad-yousha-484b2a362/)
+- **LinkedIn:** (https://www.linkedin.com/in/muhammad-yousha-484b2a362/)
 
 ---
 
